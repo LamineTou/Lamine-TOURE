@@ -1,4 +1,4 @@
-# Hi, Welcome to my bubble 
+# Hi, Welcome to my bubble !!!
 
 # About
 I am currently a Data Scientist at Oncodesign Precision Medicine in Dijon, France. My work consists of researching, implementing and evaluating novel machine learning or deep learning approaches to improve the identification of new therapeutic targets for patients resistance to anti-cancer treatment using multi-omics data.
@@ -13,7 +13,7 @@ I am passionate about machine learning, deep learning, computer vision, bioinfor
   - Multimodal data
   - Longitudinal data
   - Data integration 
-  - Hetegenous data like graph
+  - Hetegenous data 
 + Clinical data 
 + Medical Images 
 
