@@ -10,4 +10,4 @@ I am passionate about machine learning, deep learning, computer vision, bioinfor
 
 # Connect 
 
-[![image](https://user-images.githubusercontent.com/93058160/219759634-72ce4866-777e-495c-a06d-a3a87ff36da8.png)](https://www.linkedin.com/in/lamine-toure/)
+[![image](https://user-images.githubusercontent.com/93058160/219759634-72ce4866-777e-495c-a06d-a3a87ff36da8.png)](https://www.linkedin.com/in/lamine-toure/) [E-mail](laminetoure626@gmail.com)
