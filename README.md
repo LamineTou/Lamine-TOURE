@@ -6,8 +6,8 @@ I am passionate about machine learning, deep learning, computer vision, bioinfor
 
 # Programming skills
 
-![image](https://user-images.githubusercontent.com/93058160/219758082-a5435cec-9be1-46c0-88fd-fbc310c08fd2.png)   ![image](https://user-images.githubusercontent.com/93058160/219763003-3f4b56e3-5ae1-428b-ba21-459948266b0c.png)   ![image](https://user-images.githubusercontent.com/93058160/219764648-28e1975c-6078-4918-aed5-21a7b7b23a49.png)
-   ![image](https://user-images.githubusercontent.com/93058160/219763387-7b3e1169-3846-4508-84ad-a90495a5c335.png)
+![image](https://user-images.githubusercontent.com/93058160/219758082-a5435cec-9be1-46c0-88fd-fbc310c08fd2.png)   ![image](https://user-images.githubusercontent.com/93058160/219763003-3f4b56e3-5ae1-428b-ba21-459948266b0c.png)   ![image](https://user-images.githubusercontent.com/93058160/219764648-28e1975c-6078-4918-aed5-21a7b7b23a49.png)      ![image](https://user-images.githubusercontent.com/93058160/219765890-6b703f46-3fcf-4948-b056-578fd829f0f3.png)
+
 
 # Connect 
 
