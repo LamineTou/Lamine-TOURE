@@ -22,3 +22,7 @@ I am passionate about machine learning, deep learning, computer vision, bioinfor
 ***Feel free to contact me for every questions, I would be delighted to help you !!***
 
 [![image](https://user-images.githubusercontent.com/93058160/219759634-72ce4866-777e-495c-a06d-a3a87ff36da8.png)](https://www.linkedin.com/in/lamine-toure/) 
+
+# Github stats 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LamineTOU)](https://github.com/LamineTou/github-readme-stats)
