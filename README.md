@@ -5,4 +5,4 @@ I am passionate about machine learning, deep learning, computer vision, bioinfor
 
 # Programming skills
 
-[R](https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F1%2F1b%2FR_logo.svg&imgrefurl=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FR_(langage)&tbnid=eXBjG6YYM22OHM&vet=12ahUKEwiUmPCim539AhVZXqQEHQ7GDyUQMygCegUIARDJAQ..i&docid=0-LuMKHuEuaP2M&w=724&h=561&q=r%20language&ved=2ahUKEwiUmPCim539AhVZXqQEHQ7GDyUQMygCegUIARDJAQ)
+![image](https://user-images.githubusercontent.com/93058160/219757941-bee46e96-519e-4e79-93d5-3a8de913cd13.png)
