@@ -25,6 +25,5 @@ I am passionate about machine learning, deep learning, computer vision, bioinfor
 
 # Github stats 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LamineTOU)](https://github.com/LamineTou/github-readme-stats)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LamineTou&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LamineTou&exclude_repo=github-readme-stats,LamineTou.github.io)](https://github.com/LamineTou/github-readme-stats)
