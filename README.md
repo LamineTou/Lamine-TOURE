@@ -5,7 +5,8 @@ I am currently a Data Scientist at Oncodesign Precision Medicine in Dijon, Franc
 I am passionate about machine learning, deep learning, computer vision, bioinformatics and their applications in the health field, particularly in cancer. 
 
 ## Programming languages and tools
-![image](https://user-images.githubusercontent.com/93058160/219758082-a5435cec-9be1-46c0-88fd-fbc310c08fd2.png)![image](https://user-images.githubusercontent.com/93058160/219766237-c726f485-4d0e-4a88-81f7-e1260e42c51a.png)![image](https://user-images.githubusercontent.com/93058160/219765890-6b703f46-3fcf-4948-b056-578fd829f0f3.png) ![image](https://user-images.githubusercontent.com/93058160/219764648-28e1975c-6078-4918-aed5-21a7b7b23a49.png)
+![image](https://user-images.githubusercontent.com/93058160/219758082-a5435cec-9be1-46c0-88fd-fbc310c08fd2.png)![image](https://user-images.githubusercontent.com/93058160/219766237-c726f485-4d0e-4a88-81f7-e1260e42c51a.png)![image](https://user-images.githubusercontent.com/93058160/219765890-6b703f46-3fcf-4948-b056-578fd829f0f3.png) ![image](https://user-images.githubusercontent.com/93058160/219949747-1ad33771-a293-4bf9-b67f-23865a3474d6.png)
+ ![image](https://user-images.githubusercontent.com/93058160/219764648-28e1975c-6078-4918-aed5-21a7b7b23a49.png)
 
 ## Data skills 
 + Omics data 
