@@ -1,5 +1,7 @@
 ![image](https://user-images.githubusercontent.com/93058160/222811888-ae497d8f-3ca3-4f07-abd1-521d5742ec45.png)
-
+<a>
+  <img align="center" height="150em" src="https://user-images.githubusercontent.com/93058160/222811888-ae497d8f-3ca3-4f07-abd1-521d5742ec45.png" />
+</a>
 
 ## ***About***
 I am currently a Data Scientist at Oncodesign Precision Medicine in Dijon, France. My work consists of researching, implementing and evaluating novel machine learning or deep learning approaches to improve the identification of new therapeutic targets for patients resistance to anti-cancer treatment using multi-omics data. 
