@@ -1,9 +1,9 @@
 
-***## About***
+## ***About***
 I am currently a Data Scientist at Oncodesign Precision Medicine in Dijon, France. My work consists of researching, implementing and evaluating novel machine learning or deep learning approaches to improve the identification of new therapeutic targets for patients resistance to anti-cancer treatment using multi-omics data.
 I am passionate about machine learning, deep learning, computer vision, bioinformatics and their applications in the health field, particularly in cancer. 
 
-***## Programming languages and tools***
+## ***Programming languages and tools***
 ![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
