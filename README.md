@@ -22,7 +22,7 @@ I am passionate about machine learning, deep learning, computer vision, bioinfor
 
 ***Feel free to contact me for every questions, I would be delighted to help !!***
 
-[![LinkeIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lamine-toure/)             [![image](https://user-images.githubusercontent.com/93058160/219787733-2996cdd3-022c-45c0-b36c-799c41445641.png)](https://twitter.com/ltoure_officiel) 
+[![LinkeIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lamine-toure/)             [![![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ltoure_officiel) 
 
 ## Github stats 
 
