@@ -1,6 +1,6 @@
 ![header](https://user-images.githubusercontent.com/93058160/222811888-ae497d8f-3ca3-4f07-abd1-521d5742ec45.png)
 <a>
-  <img align="center" height="100em" width="1000" src="https://user-images.githubusercontent.com/93058160/222811888-ae497d8f-3ca3-4f07-abd1-521d5742ec45.png" />
+  <img align="center" height="500em" width="1000" src="https://user-images.githubusercontent.com/93058160/222811888-ae497d8f-3ca3-4f07-abd1-521d5742ec45.png" />
 </a>
 
 ## ***About***
