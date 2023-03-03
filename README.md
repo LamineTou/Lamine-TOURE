@@ -1,4 +1,3 @@
-# Hi, Welcome to my Git profile !!!
 
 ## About
 I am currently a Data Scientist at Oncodesign Precision Medicine in Dijon, France. My work consists of researching, implementing and evaluating novel machine learning or deep learning approaches to improve the identification of new therapeutic targets for patients resistance to anti-cancer treatment using multi-omics data.
