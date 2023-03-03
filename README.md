@@ -13,7 +13,7 @@ I am passionate about machine learning, deep learning, computer vision, bioinfor
 ![MARKDOWN](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![image](https://user-images.githubusercontent.com/93058160/222747654-8a29430b-394c-4589-b888-da16002ab66c.png)
-
+![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)
 
 ![image](https://user-images.githubusercontent.com/93058160/219758082-a5435cec-9be1-46c0-88fd-fbc310c08fd2.png)![image](https://user-images.githubusercontent.com/93058160/219766237-c726f485-4d0e-4a88-81f7-e1260e42c51a.png)![image](https://user-images.githubusercontent.com/93058160/219964188-dd6be77e-46c9-4482-97ee-d4016c9425df.png)![image](https://user-images.githubusercontent.com/93058160/219765890-6b703f46-3fcf-4948-b056-578fd829f0f3.png) ![image](https://user-images.githubusercontent.com/93058160/219964247-53421632-3c72-451f-bde0-30d741b2ce41.png)
  ![image](https://user-images.githubusercontent.com/93058160/219764648-28e1975c-6078-4918-aed5-21a7b7b23a49.png)
