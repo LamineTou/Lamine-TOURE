@@ -1,13 +1,12 @@
-![header](https://user-images.githubusercontent.com/93058160/222811888-ae497d8f-3ca3-4f07-abd1-521d5742ec45.png)
 
-## ***About***
-I am currently a Data Scientist at Oncodesign Precision Medicine in Dijon, France. My work consists of researching, implementing and evaluating novel machine learning or deep learning approaches to improve the identification of new therapeutic targets for patients resistance to anti-cancer treatment using multi-omics data. 
+# ***About***
+I am currently a Data Scientist at Oncodesign Precision Medicine in Dijon, France. My work consists of researching, implementing and evaluating novel machine learning or deep learning approaches to improve the identification of new therapeutic targets for patients resistance to anti-cancer treatment using <b>multi-omics data</b>. 
  
 Previously, I am graduated with a Master's degree Integrative Biology, major OMICS and Bioinformatics from the University of Paris-Est Créteil. In this course I learned about bioinformatics and its applications in the health field. My different trainings have allowed me to have a wide range of knowledge in the field of health and environment as well as an integrative vision of different fields for health (One Health concept). 
 
 I am passionate about artificial intelligence, especially machine learning and it's application on cancer.
 
-## ***Programming languages and tools***
+# ***Programming languages and tools***
 ![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
