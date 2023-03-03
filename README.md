@@ -35,7 +35,7 @@ I am passionate about artificial intelligence, especially machine learning and i
 
 [![LinkeIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lamine-toure/)         [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ltoure_officiel) 
 
-## ***Github stats***
+## *** My Github stats***
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=LamineTou&show_icons=true&theme=radical" />
