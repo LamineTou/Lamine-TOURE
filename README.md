@@ -31,8 +31,8 @@ I am passionate about machine learning, deep learning, computer vision, bioinfor
 
 ***Feel free to contact me for every questions, I would be delighted to help !!***
 
-[![LinkeIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lamine-toure/)         [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ltoure_officiel) [![GMAIL](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:laminetoure626@gmail.com)](laminetoure626@gmail.com)
-<a href="mailto:bemakow@gmail.com">
+[![LinkeIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lamine-toure/)         [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ltoure_officiel) 
+<a href="mailto:laminetoure626@gmail.com">
   <img align="right" alt="Beatriz's Email" heigth="100px" src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:laminetoure626@gmail.com"/>
 </a>
 ## Github stats 
