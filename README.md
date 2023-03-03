@@ -43,6 +43,3 @@ I am passionate about artificial intelligence, especially machine learning and i
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LamineTou&layout=compact&theme=radical" />
 </a>
-
-<p><i><sub>GitHub Readme Stats courtesy of @anuraghazra</sub></i></p>
-
