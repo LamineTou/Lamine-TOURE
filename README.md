@@ -1,12 +1,12 @@
 
-# ***About***
+## ***About***
 I am currently a <b>Data Scientist at Oncodesign Precision Medicine</b> in Dijon, France. My work consists of implementing and evaluating novel machine learning or deep learning approaches to improve the <b>identification of new therapeutic targets</b> for patients resistance to anti-cancer treatment using <b>multi-omics data</b>. For more details, you can check my [LinkedIn profile](https://www.linkedin.com/in/lamine-toure/).
  
 Previously, I am graduated with a <b>Master's degree Integrative Biology, major OMICS and Bioinformatics</b> from the University of Paris-Est Créteil. In this course I learned about bioinformatics and its applications in the health field. My different trainings have allowed me to have a wide range of knowledge in the field of health and environment as well as an integrative vision of different fields for health (One Health concept). 
 
 <b>I am passionate about artificial intelligence, especially machine learning and it's application on cancer</b>. 
 
-# ***Programming languages and tools***
+## ***Programming languages and tools***
 ![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
@@ -20,7 +20,7 @@ Previously, I am graduated with a <b>Master's degree Integrative Biology, major 
 [![Snakemake](https://img.shields.io/badge/snakemake-≥5.6.0-brightgreen.svg?style=flat)](https://snakemake.readthedocs.io)
 
 
-# ***Data skills***
+## ***Data skills***
 + <b>Omics data</b>
   - <b>Multimodal data</b>
   - <b>Longitudinal data</b>
@@ -35,7 +35,7 @@ Previously, I am graduated with a <b>Master's degree Integrative Biology, major 
 
 [![LinkeIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lamine-toure/)         [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ltoure_officiel) 
 
-## ***My Github stats***
+## ***Github stats***
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=LamineTou&show_icons=true&theme=radical" />
