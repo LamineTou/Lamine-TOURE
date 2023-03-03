@@ -1,10 +1,10 @@
 
 # ***About***
-I am currently a Data Scientist at Oncodesign Precision Medicine in Dijon, France. My work consists of researching, implementing and evaluating novel machine learning or deep learning approaches to improve the identification of new therapeutic targets for patients resistance to anti-cancer treatment using <b>multi-omics data</b>. 
+I am currently a <b>Data Scientist at Oncodesign Precision Medicine</b> in Dijon, France. My work consists of implementing and evaluating novel machine learning or deep learning approaches to improve the <b>identification of new therapeutic targets</b> for patients resistance to anti-cancer treatment using <b>multi-omics data</b>. 
  
 Previously, I am graduated with a Master's degree Integrative Biology, major OMICS and Bioinformatics from the University of Paris-Est Créteil. In this course I learned about bioinformatics and its applications in the health field. My different trainings have allowed me to have a wide range of knowledge in the field of health and environment as well as an integrative vision of different fields for health (One Health concept). 
 
-I am passionate about artificial intelligence, especially machine learning and it's application on cancer.
+<b>I am passionate about artificial intelligence, especially machine learning and it's application on cancer</b>.
 
 # ***Programming languages and tools***
 ![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -20,14 +20,14 @@ I am passionate about artificial intelligence, especially machine learning and i
 [![Snakemake](https://img.shields.io/badge/snakemake-≥5.6.0-brightgreen.svg?style=flat)](https://snakemake.readthedocs.io)
 
 
-## Data skills 
+# ***Data skills***
 + Omics data 
-  - Multimodal data
-  - Longitudinal data
-  - Data integration 
-  - Hetegenous data 
-+ Clinical data 
-+ Medical Images 
+  - <b>Multimodal data</b>
+  - <b>Longitudinal data</b>
+  - <b>Data integration</b> 
+  - <b>Hetegenous data</b> 
++ <b>Clinical data</b> 
++ <b>Medical Images</b>
 
 ## ***Connect***
 
