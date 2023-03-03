@@ -26,7 +26,7 @@ I am passionate about machine learning, deep learning, computer vision, bioinfor
 + Clinical data 
 + Medical Images 
 
-## Connect 
+## ***Connect***
 
 ***Feel free to contact me for every questions, I would be delighted to help !!***
 
