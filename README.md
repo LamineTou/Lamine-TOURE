@@ -37,3 +37,13 @@ I am passionate about machine learning, deep learning, computer vision, bioinfor
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LamineTou&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LamineTou&layout=compact&theme=radical)](https://github.com/LamineTou/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=LamineTOU&show_icons=true&include_all_commits=true&theme=radical)" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LamineTou&layout=compact&theme=radical" />
+</a>
+
+<p><i><sub>GitHub Readme Stats courtesy of @anuraghazra</sub></i></p>
+
