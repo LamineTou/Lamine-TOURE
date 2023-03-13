@@ -43,7 +43,7 @@ Previously, I am graduated with a <b>Master's degree Integrative Biology, major 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=LamineTou&show_icons=true&theme=radical" />
 </a>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LamineTou&count_private=true)
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LamineTou&layout=compact&theme=radical" />
 </a>
