@@ -43,10 +43,10 @@ I am graduated with a <b>Master's degree in bioinformatics and multi-Omics engin
 
 ## ***Github stats***
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=LamineTou&show_icons=true&theme=radical" />
+  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=LamineTourelab&show_icons=true&theme=radical" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LamineTou&layout=compact&theme=radical" />
+  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LamineTourelab&layout=compact&theme=radical" />
 </a>
 
