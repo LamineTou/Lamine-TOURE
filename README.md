@@ -28,7 +28,7 @@ I am graduated with a <b>Master's degree in bioinformatics and multi-Omics engin
 
 ## ***Data skills***
 + <b>Omics data</b>
-  - <b>Multimodal data</b>
+  - <b>Multimodal data (Rnaseq, exome, single Cell etc)</b>
   - <b>Longitudinal data</b>
   - <b>Data integration</b> 
   - <b>Hetegenous data</b> 
