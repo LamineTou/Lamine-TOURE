@@ -16,7 +16,3 @@
 ## `ExplainabilityAI`
 
 [explainability_shap&lime](user-guide/ExplainabilityAI/explainability_shap&lime.md)
-
-## `DataViz`
-
-[EDA_matplotlib_Dashboard_Dataviz](user-guide/DataViz/EDA_matplotlib_Dashboard_Dataviz/EDA_matplotlib_Dashboard_Dataviz.md)
