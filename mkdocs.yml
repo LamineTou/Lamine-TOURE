@@ -1,47 +1,57 @@
 site_name: LamineTourelab
-site_url: https://LamineTourelab.github.io/LamineTourelab
+site_url: https://LamineTourelab.github.io
 site_author: Lamine TOURE
 site_description: A repository dedicated for education. Lets learn together 
 
 repo_url: https://github.com/LamineTourelab/Tutorial
 repo_name: GitHub
-edit_uri: https://github.com/LamineTourelab/Tutorial/tree/main/docs
+edit_uri: https://github.com/LamineTourelab/Tutorial/tree/main
 
-# docs_dir: sources
-#theme:
-#    name: null
-#    custom_dir: 'custom_theme/'
-
+theme: 
+  name: yeti
+  highlightjs: true
+  hljs_languages:
+    # - yaml
+    - python3
+    # - rust
 nav:
-  - Home: index.md
+ # - Home: index.md
   # - Notebook page: notebook.ipynb
-  - Getting Started: USER_GUIDE_INDEX.md
+  #- Getting Started: USER_GUIDE_INDEX.md
   - User Guide: 
     - USER_GUIDE_INDEX.md
-    - user-guide/
-    - Bioinformatics:
-      - user-guide/Bioinformatics/SingleCellData/RNA_Velocity_analysis_scVelo.md
-      - user-guide/Bioinformatics/SingleCellData/SingleCellData_Preprocessing_with_scanpy.md
-      - user-guide/Bioinformatics/SingleCellData/Trajectory_inference_With_CellRank/Trajectory_inference_With_CellRank.md
-      - user-guide/Bioinformatics/SingleCellData/Readme.md
-    - Machine learning:
-      - user-guide/Machine learning/Autoencoder/Autoencoder.md
-      - user-guide/Machine learning/DecisionTrees_using_iris_dataset/DecisionTrees_using_iris_dataset.md
-      - user-guide/Machine learning/Transfer_learning_using_VGG16/Transfer_learning_using_VGG16.md
-      - user-guide/Machine learning/tensorflow_API_tutorial/tensorflow_API_tutorial.md
-    - ExplainabilityAI:
-      - user-guide/ExplainabilityAI/explainability_shap&lime.md
+  - Bioinformatics:
+    - RNA Velocity analysis with scVelo: user-guide/Bioinformatics/SingleCellData/RNA_Velocity_analysis_scVelo.md
+    - SingleCell Data Preprocessing with scanpy: user-guide/Bioinformatics/SingleCellData/SingleCellData_Preprocessing_with_scanpy.md
+    - Trajectory inference With CellRank: user-guide/Bioinformatics/SingleCellData/Trajectory_inference_With_CellRank/Trajectory_inference_With_CellRank.md
+    #- user-guide/Bioinformatics/SingleCellData/Readme.md
+  - Machine learning:
+    - Introduction to Autoencoder: user-guide/Machine learning/Autoencoder/Autoencoder.md
+    - Decision Trees using iris dataset: user-guide/Machine learning/DecisionTrees_using_iris_dataset/DecisionTrees_using_iris_dataset.md
+    - Transfer learning using VGG16: user-guide/Machine learning/Transfer_learning_using_VGG16/Transfer_learning_using_VGG16.md
+    - Introduction to tensorflow API tutorial: user-guide/Machine learning/tensorflow_API_tutorial/tensorflow_API_tutorial.md
+  - Explainable AI:
+    - Explain xgboot model using shap and lime: user-guide/Explainable AI/explainability_shap&lime/explainability_shap&lime.md
+    - Explain tensorflow model using Shap and Model Weights: user-guide/Explainable AI/Explainable_tensorflow_model_using_Shap_and_model_weights/Explainable_tensorflow_model_using_Shap_and_model_weights.md
+    - Explainable tensorflow multiclass model using Shap and model weights: user-guide/Explainable AI/Explainable_tensorflow_multiclass_model_using_Shap_and_model_weights/Explainable_tensorflow_multiclass_model_using_Shap_and_model_weights.md
+    - Chest X Ray Images classification with DenseNet121 and explain with GradCam on tensorflow 2: user-guide/Explainable AI/Xray_classification_with_densenet121_and_gradcam/Xray_classification_with_densenet121_and_gradcam.md
+
     # - DataViz:
     #   - user-guide/DataViz/EDA_matplotlib_Dashboard_Dataviz/EDA_matplotlib_Dashboard_Dataviz.md
   - About:
-    # - Release Notes: about/release-notes.md
+    - Release Notes: about/release-notes.md
     - Contributing: about/contributing.md
     - License: about/license.md
 
 extra_css:
+  - style.css
   - css/base.css
   - css/bootstrap.min.css
   - css/font-awesome.min.css
+extra_javascript:
+  - js/base.js
+  - js/bootstrap.min.js
+  - js/jquery-3.6.0.min.js
 
 exclude_docs: |
   *.py
