@@ -9,6 +9,10 @@ I am graduated with a <b>Master's degree in bioinformatics and multi-Omics engin
 
 <b>I am passionate about artificial intelligence, especially machine learning and it's application on cancer</b>. 
 
+# `Links`
+
+- Documentation: https://laminetourelab.github.io
+
 ## ***Programming languages and tools***
 ![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
