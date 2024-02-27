@@ -13,7 +13,7 @@ I am graduated with a <b>Master's degree in bioinformatics and multi-Omics engin
 
 - Documentation: https://laminetourelab.github.io
 
-## ***Programming languages and tools***
+# `Programming languages and tools`
 ![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
@@ -30,7 +30,7 @@ I am graduated with a <b>Master's degree in bioinformatics and multi-Omics engin
 [![Snakemake](https://img.shields.io/badge/snakemake-≥5.6.0-brightgreen.svg?style=flat)](https://snakemake.readthedocs.io)
 
 
-## ***Data skills***
+# `Data skills`
 + <b>Omics data</b>
   - <b>Multimodal data (Rnaseq, exome, single Cell etc)</b>
   - <b>Longitudinal data</b>
