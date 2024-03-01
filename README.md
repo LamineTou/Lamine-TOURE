@@ -12,6 +12,7 @@ I am graduated with a <b>Master's degree in bioinformatics and multi-Omics engin
 # `Links`
 
 - Documentation: https://laminetourelab.github.io
+- CV: [CV_2024-03-01_Lamine_TOURE](https://github.com/LamineTourelab/LamineTourelab.github.io/blob/main/CV_2024-03-01_Lamine_TOURE.pdf)
 
 # `Programming languages and tools`
 ![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
