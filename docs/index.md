@@ -12,8 +12,7 @@ I am graduated with a <b>Master's degree in bioinformatics and multi-Omics engin
 <b>I am passionate about artificial intelligence, especially machine learning and it's application on cancer</b>. 
 
 ## ***Programming languages and tools***
-![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
 ![GITHUB](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -48,7 +47,6 @@ I am graduated with a <b>Master's degree in bioinformatics and multi-Omics engin
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=LamineTourelab&show_icons=true&theme=radical" />
 </a>
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LamineTourelab&layout=compact&theme=radical" />
 </a>

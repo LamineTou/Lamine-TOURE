@@ -17,7 +17,7 @@ theme:
 nav:
  # - Home: index.md
   # - Notebook page: notebook.ipynb
-  #- Getting Started: USER_GUIDE_INDEX.md
+  - CV: CV_2024-03-01_Lamine_TOURE.pdf
   - User Guide: 
     - USER_GUIDE_INDEX.md
   - Bioinformatics:
@@ -78,4 +78,4 @@ markdown_extensions:
 plugins:
   - mkdocs-jupyter:
       execute: True
-copyright: Copyright &copy; 2024 <a href="https://www.linkedin.com/in/lamine-toure">Lamine TOURE</a>, Maintained by <a href="https://github.com/LamineTourelab">Lamine TOURE</a>.
+copyright: Copyright &copy; 2024 <a href="https://www.linkedin.com/in/lamine-toure">Lamine TOURE</a>, Maintained by <a href="https://github.com/LamineTourelab">Lamine TOURE</a>, Last update March 15, 2024.
