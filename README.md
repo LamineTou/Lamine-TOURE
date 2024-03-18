@@ -2,6 +2,9 @@
 ## ***Hi there 👋***
 ### Curently
 <b> I'm a data scientist/bioinformatician ingeneer at INEM-Institut Necker Enfants Malades :)</b>
+
+I'm working with Single cell data analyzing gene regulation networks (Bayesian methods, metaVIPER), RNA velocity and trajectory analysis, using biologically informed deep learning for single-cell and designed shiny App for genomics data (differential expression visualization, Data visualization, Statistical analysis ...).
+
 ### Before 
 I was a <b>Data Scientist at Oncodesign Precision Medicine</b> in Dijon, France. My work consisted of implementing and evaluating novel <b>interpretable machine learning approaches</b> to improve the <b>identification of new therapeutic targets</b> for patients resistance to anti-cancer treatment using <b>multi-omics data</b> based on 𝗢𝗻𝗰𝗼𝗦𝗡𝗜𝗣𝗘® 𝗽𝗿𝗼𝗷𝗲𝗰𝘁. For more details, please check my <b>[LinkedIn profile](https://www.linkedin.com/in/lamine-toure/)</b>.
  
@@ -9,7 +12,12 @@ I am graduated with a <b>Master's degree in bioinformatics and multi-Omics engin
 
 <b>I am passionate about artificial intelligence, especially machine learning and it's application on cancer</b>. 
 
-## ***Programming languages and tools***
+# `Links`
+
+- Documentation: https://laminetourelab.github.io
+- CV: [CV_2024-03-01_Lamine_TOURE](https://github.com/LamineTourelab/LamineTourelab.github.io/blob/main/CV_2024-03-01_Lamine_TOURE.pdf)
+
+# `Programming languages and tools`
 ![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
@@ -26,7 +34,7 @@ I am graduated with a <b>Master's degree in bioinformatics and multi-Omics engin
 [![Snakemake](https://img.shields.io/badge/snakemake-≥5.6.0-brightgreen.svg?style=flat)](https://snakemake.readthedocs.io)
 
 
-## ***Data skills***
+# `Data skills`
 + <b>Omics data</b>
   - <b>Multimodal data (Rnaseq, exome, single Cell etc)</b>
   - <b>Longitudinal data</b>
