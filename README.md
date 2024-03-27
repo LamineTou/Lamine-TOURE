@@ -3,7 +3,7 @@
 ### Curently
 <b> I'm a data scientist/bioinformatician ingeneer at INEM-Institut Necker Enfants Malades :)</b>
 
-I'm working with Single cell data analyzing gene regulation networks (Bayesian methods, metaVIPER), RNA velocity and trajectory analysis, using biologically informed deep learning for single-cell and designed shiny App for genomics data (differential expression visualization, Data visualization, Statistical analysis ...).
+I'm working with Single cell data analysis (data preprocessing, downstream analysis), in charge of the bioinformatics hub at the institute, working on cross-disciplinary projects and developing R Shiny App for genomics data for the institute.
 
 ### Before 
 I was a <b>Data Scientist at Oncodesign Precision Medicine</b> in Dijon, France. My work consisted of implementing and evaluating novel <b>interpretable machine learning approaches</b> to improve the <b>identification of new therapeutic targets</b> for patients resistance to anti-cancer treatment using <b>multi-omics data</b> based on 𝗢𝗻𝗰𝗼𝗦𝗡𝗜𝗣𝗘® 𝗽𝗿𝗼𝗷𝗲𝗰𝘁. For more details, please check my <b>[LinkedIn profile](https://www.linkedin.com/in/lamine-toure/)</b>.
