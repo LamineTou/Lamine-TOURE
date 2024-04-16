@@ -3,7 +3,7 @@
 ## `Curently`
 <b> I'm a data scientist/bioinformatician ingeneer at INEM-Institut Necker Enfants Malades :)</b>
 
-### `Some tasks:`
+#### `Some tasks:`
 - I'm working with Single cell data analysis (data preprocessing, downstream analysis)
 - I'm in charge of the bioinformatics hub at the institute
 - I work on cross-disciplinary projects
