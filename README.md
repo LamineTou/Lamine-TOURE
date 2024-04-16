@@ -15,7 +15,7 @@ I was a <b>Data Scientist at Oncodesign Precision Medicine</b> in Dijon, France.
  
 I am graduated with a <b>Master's degree in bioinformatics and multi-Omics engineering </b> from the University of Paris-Est Créteil. In this course I learned about bioinformatics and its applications in the health field. My different trainings have allowed me to have a wide range of knowledge in the field of health and environment as well as an integrative vision of different fields for health (One Health concept). 
 
-<b>I am passionate about artificial intelligence, especially machine learning and it's application on cancer</b>. 
+<b>I'm passionate about artificial intelligence, particularly machine learning and its application to health, especially cancer.</b>. 
 
 # `Links`
 
