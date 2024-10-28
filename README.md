@@ -1,9 +1,8 @@
 
 # ***Hi there 👋***
 ## `Curently`
-<b> I'm a data scientist/bioinformatician ingeneer at INEM-Institut Necker Enfants Malades :)</b>
+<b> I'm the leader of the Bioinformatics Hub at INEM-Institut Necker Enfants Malades :)</b>
 
-#### `Some tasks:`
 As the leader of the Bioinformatics Hub of the Necker Institute, I manage omics data analyses for various research teams. I develop shared tools such as applications and bioinformatics analysis pipelines, and lead the hub's activities, ensuring efficient data handling and collaborative research efforts across the institute.
 
 ## `Before`
