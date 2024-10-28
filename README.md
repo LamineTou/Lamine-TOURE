@@ -4,11 +4,7 @@
 <b> I'm a data scientist/bioinformatician ingeneer at INEM-Institut Necker Enfants Malades :)</b>
 
 #### `Some tasks:`
-- I'm working with Single cell data analysis (data preprocessing, downstream analysis)
-- I'm in charge of the bioinformatics hub at the institute
-- I work on cross-disciplinary projects
-- I develop and share analysis methods for the institute (e.g. R Shiny App)
-- Cluster and cloud computing
+As the leader of the Bioinformatics Hub of the Necker Institute, I manage omics data analyses for various research teams. I develop shared tools such as applications and bioinformatics analysis pipelines, and lead the hub's activities, ensuring efficient data handling and collaborative research efforts across the institute.
 
 ## `Before`
 I was a <b>Data Scientist at Oncodesign Precision Medicine</b> in Dijon, France. My work consisted of implementing and evaluating novel <b>interpretable machine learning approaches</b> to improve the <b>identification of new therapeutic targets</b> for patients resistance to anti-cancer treatment using <b>multi-omics data</b> based on 𝗢𝗻𝗰𝗼𝗦𝗡𝗜𝗣𝗘® 𝗽𝗿𝗼𝗷𝗲𝗰𝘁. For more details, please check my <b>[LinkedIn profile](https://www.linkedin.com/in/lamine-toure/)</b>.
